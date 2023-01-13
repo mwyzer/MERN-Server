@@ -1,0 +1,3 @@
+{
+    "mongoDB_URI": "mongodb+srv://wyzer:wyzer123@cluster0.6h2iq.mongodb.net/mernAuth?retryWrites=true&w=majority"
+}
